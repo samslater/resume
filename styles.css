@@ -1,20 +1,8 @@
-@font-face {
-    font-family: "f1";
-    font-style: normal;
-    font-weight: normal;
-    src: url("font/font1.ttf") format("truetype");
-}
-@font-face {
-    font-family: "f2";
-    font-style: normal;
-    font-weight: normal;
-    src: url("font/font2.ttf") format("truetype");
-}
 html {
     background-attachment: fixed;
     background-clip: border-box;
     background-color: transparent;
-    background-image: url("img/bg8.jpg");
+    background-image: url("bg8.jpg");
     background-origin: padding-box;
     background-position: 0 0;
     background-repeat: no-repeat;
